@@ -1,0 +1,805 @@
+Archive member included because of file (symbol)
+
+/opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_divsi3.o)
+                              /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/libm.so (___divsi3)
+/opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_muldi3.o)
+                              /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/libm.so (___muldi3)
+/opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clzsi2.o)
+                              /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/libm.so (___clzsi2)
+/opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(adddf3.o)
+                              /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/libm.so (___adddf3)
+/opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(divdf3.o)
+                              /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/libm.so (___divdf3)
+/opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(eqdf2.o)
+                              /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/libm.so (___eqdf2)
+/opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(gedf2.o)
+                              /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/libm.so (___gedf2)
+/opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(ledf2.o)
+                              /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/libm.so (___ledf2)
+/opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(muldf3.o)
+                              /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/libm.so (___muldf3)
+/opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(subdf3.o)
+                              /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/libm.so (___subdf3)
+/opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatsidf.o)
+                              /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/libm.so (___floatsidf)
+/opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatunsidf.o)
+                              /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/libm.so (___floatunsidf)
+/opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(extendsfdf2.o)
+                              /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/libm.so (___extendsfdf2)
+/opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(truncdfsf2.o)
+                              /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/libm.so (___truncdfsf2)
+/opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clz.o)
+                              /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clzsi2.o) (___clz_tab)
+
+Allocating common symbols
+Common symbol       size              file
+
+serial_alias_cfg    0xc00             serial_alias.o
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x00000000        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crt1.o
+ .note.GNU-stack
+                0x00000000        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crtreloc.o
+ .note.GNU-stack
+                0x00000000        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crti.o
+ .note.GNU-stack
+                0x00000000        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/crtbegin.o
+ .note.GNU-stack
+                0x00000000        0x0 main.o
+ .note.GNU-stack
+                0x00000000        0x0 serial_alias.o
+ .note.GNU-stack
+                0x00000000        0x0 string_ext.o
+ .note.GNU-stack
+                0x00000000        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_divsi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_muldi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clzsi2.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(adddf3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(divdf3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(eqdf2.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(gedf2.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(ledf2.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(muldf3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(subdf3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatsidf.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatunsidf.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(extendsfdf2.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(truncdfsf2.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clz.o)
+ .note.GNU-stack
+                0x00000000        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/crtend.o
+ .note.GNU-stack
+                0x00000000        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crt1.o
+LOAD /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crtreloc.o
+LOAD /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crti.o
+LOAD /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/crtbegin.o
+LOAD main.o
+LOAD serial_alias.o
+LOAD string_ext.o
+LOAD /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/libm.so
+LOAD /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/librt.so
+LOAD /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a
+LOAD /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc_s.so
+LOAD /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/libpthread.so
+LOAD /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/libc.so
+START GROUP
+LOAD /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/lib/libc.so.0
+LOAD /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/uclibc_nonshared.a
+LOAD /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/lib/ld-uClibc.so.0
+END GROUP
+LOAD /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a
+LOAD /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc_s.so
+LOAD /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/crtend.o
+LOAD /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crtn.o
+                0x00000000                PROVIDE (__executable_start, 0x0)
+                0x000000f4                . = (0x0 + SIZEOF_HEADERS)
+
+.interp         0x000000f4       0x14
+ *(.interp)
+ .interp        0x000000f4       0x14 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crt1.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x00000108       0xd4
+ *(.hash)
+ .hash          0x00000108       0xd4 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crt1.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x000001dc      0x220
+ *(.dynsym)
+ .dynsym        0x000001dc      0x220 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crt1.o
+
+.dynstr         0x000003fc      0x1d3
+ *(.dynstr)
+ .dynstr        0x000003fc      0x1d3 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crt1.o
+
+.gnu.version    0x000005d0       0x44
+ *(.gnu.version)
+ .gnu.version   0x000005d0       0x44 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crt1.o
+
+.gnu.version_d  0x00000614        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crt1.o
+
+.gnu.version_r  0x00000614       0x20
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000614       0x20 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crt1.o
+
+.rel.dyn        0x00000634       0x40
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x00000634       0x40 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crt1.o
+ *(.rel.sdata .rel.sdata.* .rel.gnu.linkonce.s.*)
+ *(.rel.sbss .rel.sbss.* .rel.gnu.linkonce.sb.*)
+ *(.rel.sdata2 .rel.sdata2.* .rel.gnu.linkonce.s2.*)
+ *(.rel.sbss2 .rel.sbss2.* .rel.gnu.linkonce.sb2.*)
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+                0x00000674                PROVIDE (___rel_iplt_start, .)
+ *(.rel.iplt)
+                0x00000674                PROVIDE (___rel_iplt_end, .)
+                0x00000674                PROVIDE (___rela_iplt_start, .)
+                0x00000674                PROVIDE (___rela_iplt_end, .)
+
+.rela.dyn       0x00000674        0x0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.sdata .rela.sdata.* .rela.gnu.linkonce.s.*)
+ *(.rela.sbss .rela.sbss.* .rela.gnu.linkonce.sb.*)
+ *(.rela.sdata2 .rela.sdata2.* .rela.gnu.linkonce.s2.*)
+ *(.rela.sbss2 .rela.sbss2.* .rela.gnu.linkonce.sb2.*)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ .rela.bss      0x00000000        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crt1.o
+                0x00000674                PROVIDE (___rel_iplt_start, .)
+                0x00000674                PROVIDE (___rel_iplt_end, .)
+                0x00000674                PROVIDE (___rela_iplt_start, .)
+ *(.rela.iplt)
+                0x00000674                PROVIDE (___rela_iplt_end, .)
+
+.rel.plt        0x00000674       0x60
+ *(.rel.plt)
+ .rel.plt       0x00000674       0x60 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crt1.o
+
+.rela.plt
+ *(.rela.plt)
+
+.init           0x000006d4       0x1a
+ *(.init)
+ .init          0x000006d4        0x6 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crti.o
+                0x000006d4                __init
+ .init          0x000006da        0x6 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/crtbegin.o
+ .init          0x000006e0        0x6 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/crtend.o
+ .init          0x000006e6        0x8 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crtn.o
+
+.plt            0x000006f0       0xca
+ *(.plt)
+ .plt           0x000006f0       0xca /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crt1.o
+
+.iplt
+ *(.iplt)
+
+.text           0x000007bc     0x2584
+ *(.text.unlikely .text.*_unlikely)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x000007bc       0x64 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crt1.o
+                0x000007bc                __start
+ .text          0x00000820      0x1d8 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crtreloc.o
+                0x00000820                ___self_reloc
+ .text          0x000009f8        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crti.o
+ .text          0x000009f8       0xb8 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/crtbegin.o
+ .text          0x00000ab0       0x4c main.o
+                0x00000ab0                _main
+ .text          0x00000afc      0x170 serial_alias.o
+                0x00000afc                _serial_get_realdev
+                0x00000b64                _serial_alias_init
+ .text          0x00000c6c       0x60 string_ext.o
+                0x00000c6c                _strupr
+                0x00000c9c                _strlwr
+ .text          0x00000ccc       0xa8 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_divsi3.o)
+                0x00000ccc                ___divsi3
+ .text          0x00000d74       0x4c /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_muldi3.o)
+                0x00000d74                ___muldi3
+ .text          0x00000dc0       0x4c /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clzsi2.o)
+                0x00000dc0                ___clzsi2
+ .text          0x00000e0c      0x6b4 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(adddf3.o)
+                0x00000e0c                ___adddf3
+ .text          0x000014c0      0x668 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(divdf3.o)
+                0x000014c0                ___divdf3
+ .text          0x00001b28       0x98 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(eqdf2.o)
+                0x00001b28                ___nedf2
+                0x00001b28                ___eqdf2
+ .text          0x00001bc0       0xe4 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(gedf2.o)
+                0x00001bc0                ___gedf2
+                0x00001bc0                ___gtdf2
+ .text          0x00001ca4       0xe8 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(ledf2.o)
+                0x00001ca4                ___ledf2
+                0x00001ca4                ___ltdf2
+ .text          0x00001d8c      0x548 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(muldf3.o)
+                0x00001d8c                ___muldf3
+ .text          0x000022d4      0x6d4 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(subdf3.o)
+                0x000022d4                ___subdf3
+ .text          0x000029a8       0xa0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatsidf.o)
+                0x000029a8                ___floatsidf
+ .text          0x00002a48       0x8c /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatunsidf.o)
+                0x00002a48                ___floatunsidf
+ .text          0x00002ad4       0xc0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(extendsfdf2.o)
+                0x00002ad4                ___extendsfdf2
+ .text          0x00002b94      0x17c /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(truncdfsf2.o)
+                0x00002b94                ___truncdfsf2
+ .text          0x00002d10        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clz.o)
+ .text          0x00002d10       0x30 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/crtend.o
+ .text          0x00002d40        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crtn.o
+ *(.gnu.warning)
+
+.fini           0x00002d40       0x14
+ *(.fini)
+ .fini          0x00002d40        0x6 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crti.o
+                0x00002d40                __fini
+ .fini          0x00002d46        0x6 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/crtbegin.o
+ .fini          0x00002d4c        0x8 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crtn.o
+                0x00002d54                PROVIDE (___etext, .)
+                0x00002d54                PROVIDE (__etext, .)
+                0x00002d54                PROVIDE (_etext, .)
+
+.rodata         0x00002d54      0x188
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.4
+                0x00002d54        0x5 main.o
+                                  0x8 (size before relaxing)
+ *fill*         0x00002d59        0x3 00
+ .rodata.str1.4
+                0x00002d5c       0x6c serial_alias.o
+ .rodata        0x00002dc8       0x14 serial_alias.o
+ .rodata        0x00002ddc      0x100 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clz.o)
+                0x00002ddc                ___clz_tab
+
+.rodata1
+ *(.rodata1)
+
+.sdata2
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+
+.sbss2
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+
+.rofixup        0x00002edc       0x58
+                0x00002edc                __ROFIXUP_LIST__ = .
+ *(.rofixup)
+ .rofixup       0x00002edc       0x58 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crt1.o
+                0x00002f34                __ROFIXUP_END__ = .
+
+.eh_frame_hdr   0x00002f34        0x0
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x00000000        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crtn.o
+
+.eh_frame       0x00002f34        0x4
+ *(.eh_frame)
+ .eh_frame      0x00002f34        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/crtbegin.o
+ .eh_frame      0x00002f34        0x4 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/crtend.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+                0x00003f38                . = (ALIGN (0x1000) + (. & 0xfff))
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x00003f38        0x0
+                0x00003f38                PROVIDE (___preinit_array_start, .)
+ *(.preinit_array)
+                0x00003f38                PROVIDE (___preinit_array_end, .)
+
+.init_array     0x00003f38        0x0
+                0x00003f38                PROVIDE (___init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x00003f38                PROVIDE (___init_array_end, .)
+
+.fini_array     0x00003f38        0x0
+                0x00003f38                PROVIDE (___fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+                0x00003f38                PROVIDE (___fini_array_end, .)
+
+.ctors          0x00003f38        0x8
+ *crtbegin.o(.ctors)
+ .ctors         0x00003f38        0x4 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/crtbegin.o
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ .ctors         0x00003f3c        0x4 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/crtend.o
+
+.dtors          0x00003f40        0x8
+ *crtbegin.o(.dtors)
+ .dtors         0x00003f40        0x4 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/crtbegin.o
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ .dtors         0x00003f44        0x4 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/crtend.o
+                0x00003f44                ___DTOR_END__
+
+.jcr            0x00003f48        0x4
+ *(.jcr)
+ .jcr           0x00003f48        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/crtbegin.o
+ .jcr           0x00003f48        0x4 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/crtend.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x00003f4c       0xe0
+ *(.dynamic)
+ .dynamic       0x00003f4c       0xe0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crt1.o
+                0x00003f4c                _DYNAMIC
+
+.data           0x0000402c        0x4
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000402c        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crt1.o
+ .data          0x0000402c        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crtreloc.o
+ .data          0x0000402c        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crti.o
+ .data          0x0000402c        0x4 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/crtbegin.o
+                0x0000402c                ___dso_handle
+ .data          0x00004030        0x0 main.o
+ .data          0x00004030        0x0 serial_alias.o
+ .data          0x00004030        0x0 string_ext.o
+ .data          0x00004030        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_divsi3.o)
+ .data          0x00004030        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_muldi3.o)
+ .data          0x00004030        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clzsi2.o)
+ .data          0x00004030        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(adddf3.o)
+ .data          0x00004030        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(divdf3.o)
+ .data          0x00004030        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(eqdf2.o)
+ .data          0x00004030        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(gedf2.o)
+ .data          0x00004030        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(ledf2.o)
+ .data          0x00004030        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(muldf3.o)
+ .data          0x00004030        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(subdf3.o)
+ .data          0x00004030        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatsidf.o)
+ .data          0x00004030        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatunsidf.o)
+ .data          0x00004030        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(extendsfdf2.o)
+ .data          0x00004030        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(truncdfsf2.o)
+ .data          0x00004030        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clz.o)
+ .data          0x00004030        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/crtend.o
+ .data          0x00004030        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crtn.o
+
+.data1
+ *(.data1)
+
+.got            0x00004030       0xe0
+ *(.got.plt)
+ *(.igot.plt)
+ *(.got)
+ .got           0x00004030       0xe0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crt1.o
+                0x00004090                __GLOBAL_OFFSET_TABLE_
+ *(.igot)
+
+.sdata
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+                0x00004110                __edata = .
+                0x00004110                PROVIDE (_edata, .)
+                0x00004110                ___bss_start = .
+
+.sbss
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ *(.scommon)
+
+.bss            0x00004110      0xc24
+ *(.dynbss)
+ .dynbss        0x00000000        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crt1.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00004110        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crt1.o
+ .bss           0x00004110        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crtreloc.o
+ .bss           0x00004110        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crti.o
+ .bss           0x00004110       0x20 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/crtbegin.o
+ .bss           0x00004130        0x0 main.o
+ .bss           0x00004130        0x4 serial_alias.o
+                0x00004130                _serial_alias_nr
+ .bss           0x00004134        0x0 string_ext.o
+ .bss           0x00004134        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_divsi3.o)
+ .bss           0x00004134        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_muldi3.o)
+ .bss           0x00004134        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clzsi2.o)
+ .bss           0x00004134        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(adddf3.o)
+ .bss           0x00004134        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(divdf3.o)
+ .bss           0x00004134        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(eqdf2.o)
+ .bss           0x00004134        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(gedf2.o)
+ .bss           0x00004134        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(ledf2.o)
+ .bss           0x00004134        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(muldf3.o)
+ .bss           0x00004134        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(subdf3.o)
+ .bss           0x00004134        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatsidf.o)
+ .bss           0x00004134        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatunsidf.o)
+ .bss           0x00004134        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(extendsfdf2.o)
+ .bss           0x00004134        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(truncdfsf2.o)
+ .bss           0x00004134        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clz.o)
+ .bss           0x00004134        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/crtend.o
+ .bss           0x00004134        0x0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crtn.o
+ *(COMMON)
+ COMMON         0x00004134      0xc00 serial_alias.o
+                0x00004134                _serial_alias_cfg
+                0x00004d34                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x00004d34                . = ALIGN (0x4)
+                0x00004d34                . = ALIGN (0x4)
+                0x00004d34                __end = .
+                0x00004d34                PROVIDE (_end, .)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x36
+ *(.comment)
+ .comment       0x00000000       0x1c /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crtreloc.o
+                                 0x1d (size before relaxing)
+ .comment       0x0000001c        0xd /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crti.o
+                                  0xe (size before relaxing)
+ .comment       0x00000000       0x1d /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/crtbegin.o
+ .comment       0x00000000       0x1d main.o
+ .comment       0x00000000       0x1d serial_alias.o
+ .comment       0x00000000       0x1d string_ext.o
+ .comment       0x00000000       0x1d /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clzsi2.o)
+ .comment       0x00000000       0x1d /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(adddf3.o)
+ .comment       0x00000000       0x1d /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(divdf3.o)
+ .comment       0x00000000       0x1d /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(eqdf2.o)
+ .comment       0x00000000       0x1d /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(gedf2.o)
+ .comment       0x00000000       0x1d /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(ledf2.o)
+ .comment       0x00000000       0x1d /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(muldf3.o)
+ .comment       0x00000000       0x1d /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(subdf3.o)
+ .comment       0x00000000       0x1d /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatsidf.o)
+ .comment       0x00000000       0x1d /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatunsidf.o)
+ .comment       0x00000000       0x1d /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(extendsfdf2.o)
+ .comment       0x00000000       0x1d /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(truncdfsf2.o)
+ .comment       0x00000000       0x1d /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clz.o)
+ .comment       0x00000000       0x1d /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/crtend.o
+ .comment       0x00000029        0xd /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../bfin-linux-uclibc/runtime/usr/lib/crtn.o
+                                  0xe (size before relaxing)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo .zdebug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames .zdebug_sfnames)
+
+.debug_aranges  0x00000000      0x220
+ *(.debug_aranges .zdebug_aranges)
+ .debug_aranges
+                0x00000000       0x20 main.o
+ .debug_aranges
+                0x00000020       0x20 serial_alias.o
+ .debug_aranges
+                0x00000040       0x20 string_ext.o
+ .debug_aranges
+                0x00000060       0x20 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x00000080       0x20 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_muldi3.o)
+ .debug_aranges
+                0x000000a0       0x20 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x000000c0       0x20 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(adddf3.o)
+ .debug_aranges
+                0x000000e0       0x20 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(divdf3.o)
+ .debug_aranges
+                0x00000100       0x20 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(eqdf2.o)
+ .debug_aranges
+                0x00000120       0x20 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(gedf2.o)
+ .debug_aranges
+                0x00000140       0x20 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(ledf2.o)
+ .debug_aranges
+                0x00000160       0x20 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(muldf3.o)
+ .debug_aranges
+                0x00000180       0x20 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(subdf3.o)
+ .debug_aranges
+                0x000001a0       0x20 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatsidf.o)
+ .debug_aranges
+                0x000001c0       0x20 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatunsidf.o)
+ .debug_aranges
+                0x000001e0       0x20 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(extendsfdf2.o)
+ .debug_aranges
+                0x00000200       0x20 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(truncdfsf2.o)
+
+.debug_pubnames
+                0x00000000      0x24d
+ *(.debug_pubnames .zdebug_pubnames)
+ .debug_pubnames
+                0x00000000       0x1b main.o
+ .debug_pubnames
+                0x0000001b       0x68 serial_alias.o
+ .debug_pubnames
+                0x00000083       0x28 string_ext.o
+ .debug_pubnames
+                0x000000ab       0x1f /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clzsi2.o)
+ .debug_pubnames
+                0x000000ca       0x1f /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(adddf3.o)
+ .debug_pubnames
+                0x000000e9       0x1f /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(divdf3.o)
+ .debug_pubnames
+                0x00000108       0x1e /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(eqdf2.o)
+ .debug_pubnames
+                0x00000126       0x1e /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(gedf2.o)
+ .debug_pubnames
+                0x00000144       0x1e /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(ledf2.o)
+ .debug_pubnames
+                0x00000162       0x1f /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(muldf3.o)
+ .debug_pubnames
+                0x00000181       0x1f /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(subdf3.o)
+ .debug_pubnames
+                0x000001a0       0x22 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatsidf.o)
+ .debug_pubnames
+                0x000001c2       0x24 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatunsidf.o)
+ .debug_pubnames
+                0x000001e6       0x24 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(extendsfdf2.o)
+ .debug_pubnames
+                0x0000020a       0x23 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(truncdfsf2.o)
+ .debug_pubnames
+                0x0000022d       0x20 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clz.o)
+
+.debug_info     0x00000000     0x2b73
+ *(.debug_info .gnu.linkonce.wi.* .zdebug_info)
+ .debug_info    0x00000000       0xad main.o
+ .debug_info    0x000000ad      0x396 serial_alias.o
+ .debug_info    0x00000443      0x127 string_ext.o
+ .debug_info    0x0000056a       0xf9 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_divsi3.o)
+ .debug_info    0x00000663       0xf9 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_muldi3.o)
+ .debug_info    0x0000075c      0x12c /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clzsi2.o)
+ .debug_info    0x00000888      0x47f /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(adddf3.o)
+ .debug_info    0x00000d07      0x597 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(divdf3.o)
+ .debug_info    0x0000129e      0x1e1 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(eqdf2.o)
+ .debug_info    0x0000147f      0x214 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(gedf2.o)
+ .debug_info    0x00001693      0x214 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(ledf2.o)
+ .debug_info    0x000018a7      0x58c /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(muldf3.o)
+ .debug_info    0x00001e33      0x47f /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(subdf3.o)
+ .debug_info    0x000022b2      0x1c1 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatsidf.o)
+ .debug_info    0x00002473      0x1b6 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatunsidf.o)
+ .debug_info    0x00002629      0x251 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(extendsfdf2.o)
+ .debug_info    0x0000287a      0x234 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(truncdfsf2.o)
+ .debug_info    0x00002aae       0xc5 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clz.o)
+
+.debug_abbrev   0x00000000      0xfaf
+ *(.debug_abbrev .zdebug_abbrev)
+ .debug_abbrev  0x00000000       0x69 main.o
+ .debug_abbrev  0x00000069      0x12b serial_alias.o
+ .debug_abbrev  0x00000194       0x96 string_ext.o
+ .debug_abbrev  0x0000022a       0x14 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x0000023e       0x14 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_muldi3.o)
+ .debug_abbrev  0x00000252       0xb3 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x00000305      0x131 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(adddf3.o)
+ .debug_abbrev  0x00000436      0x128 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(divdf3.o)
+ .debug_abbrev  0x0000055e      0x114 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(eqdf2.o)
+ .debug_abbrev  0x00000672      0x114 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(gedf2.o)
+ .debug_abbrev  0x00000786      0x114 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(ledf2.o)
+ .debug_abbrev  0x0000089a      0x143 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(muldf3.o)
+ .debug_abbrev  0x000009dd      0x131 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(subdf3.o)
+ .debug_abbrev  0x00000b0e      0x119 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatsidf.o)
+ .debug_abbrev  0x00000c27      0x112 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatunsidf.o)
+ .debug_abbrev  0x00000d39      0x107 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(extendsfdf2.o)
+ .debug_abbrev  0x00000e40      0x105 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(truncdfsf2.o)
+ .debug_abbrev  0x00000f45       0x6a /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clz.o)
+
+.debug_line     0x00000000      0xf02
+ *(.debug_line .zdebug_line)
+ .debug_line    0x00000000       0x3d main.o
+ .debug_line    0x0000003d      0x1bd serial_alias.o
+ .debug_line    0x000001fa      0x120 string_ext.o
+ .debug_line    0x0000031a       0xd9 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_divsi3.o)
+ .debug_line    0x000003f3       0xaf /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_muldi3.o)
+ .debug_line    0x000004a2       0xb1 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clzsi2.o)
+ .debug_line    0x00000553       0xde /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(adddf3.o)
+ .debug_line    0x00000631       0xf4 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(divdf3.o)
+ .debug_line    0x00000725       0xb9 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(eqdf2.o)
+ .debug_line    0x000007de       0xca /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(gedf2.o)
+ .debug_line    0x000008a8       0xd4 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(ledf2.o)
+ .debug_line    0x0000097c       0xee /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(muldf3.o)
+ .debug_line    0x00000a6a       0xdf /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(subdf3.o)
+ .debug_line    0x00000b49       0xc2 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatsidf.o)
+ .debug_line    0x00000c0b       0xc2 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatunsidf.o)
+ .debug_line    0x00000ccd       0xd0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(extendsfdf2.o)
+ .debug_line    0x00000d9d       0xda /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(truncdfsf2.o)
+ .debug_line    0x00000e77       0x8b /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clz.o)
+
+.debug_frame    0x00000000      0x350
+ *(.debug_frame .zdebug_frame)
+ .debug_frame   0x00000000       0x30 main.o
+ .debug_frame   0x00000030       0x60 serial_alias.o
+ .debug_frame   0x00000090       0x50 string_ext.o
+ .debug_frame   0x000000e0       0x28 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clzsi2.o)
+ .debug_frame   0x00000108       0x38 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(adddf3.o)
+ .debug_frame   0x00000140       0x38 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(divdf3.o)
+ .debug_frame   0x00000178       0x34 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(eqdf2.o)
+ .debug_frame   0x000001ac       0x34 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(gedf2.o)
+ .debug_frame   0x000001e0       0x34 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(ledf2.o)
+ .debug_frame   0x00000214       0x38 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(muldf3.o)
+ .debug_frame   0x0000024c       0x38 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(subdf3.o)
+ .debug_frame   0x00000284       0x34 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatsidf.o)
+ .debug_frame   0x000002b8       0x30 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatunsidf.o)
+ .debug_frame   0x000002e8       0x34 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(extendsfdf2.o)
+ .debug_frame   0x0000031c       0x34 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(truncdfsf2.o)
+
+.debug_str      0x00000000      0xa47
+ *(.debug_str .zdebug_str)
+ .debug_str     0x00000000       0x7c main.o
+                                 0xb5 (size before relaxing)
+ .debug_str     0x0000007c      0x1d0 serial_alias.o
+                                0x279 (size before relaxing)
+ .debug_str     0x0000024c       0x57 string_ext.o
+                                0x100 (size before relaxing)
+ .debug_str     0x000002a3      0x108 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clzsi2.o)
+                                0x1b1 (size before relaxing)
+ .debug_str     0x000003ab      0x101 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(adddf3.o)
+                                0x193 (size before relaxing)
+ .debug_str     0x000004ac       0xf4 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(divdf3.o)
+                                0x1d2 (size before relaxing)
+ .debug_str     0x000005a0       0x73 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(eqdf2.o)
+                                0x147 (size before relaxing)
+ .debug_str     0x00000613       0x8b /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(gedf2.o)
+                                0x15f (size before relaxing)
+ .debug_str     0x0000069e       0x73 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(ledf2.o)
+                                0x15f (size before relaxing)
+ .debug_str     0x00000711       0xa6 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(muldf3.o)
+                                0x1bb (size before relaxing)
+ .debug_str     0x000007b7       0x75 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(subdf3.o)
+                                0x193 (size before relaxing)
+ .debug_str     0x0000082c       0x88 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatsidf.o)
+                                0x161 (size before relaxing)
+ .debug_str     0x000008b4       0x7f /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatunsidf.o)
+                                0x15e (size before relaxing)
+ .debug_str     0x00000933       0x97 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(extendsfdf2.o)
+                                0x167 (size before relaxing)
+ .debug_str     0x000009ca       0x7d /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(truncdfsf2.o)
+                                0x165 (size before relaxing)
+ .debug_str     0x00000000      0x194 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clz.o)
+
+.debug_loc      0x00000000     0x4e53
+ *(.debug_loc .zdebug_loc)
+ .debug_loc     0x00000000       0x2b main.o
+ .debug_loc     0x0000002b      0x114 serial_alias.o
+ .debug_loc     0x0000013f       0xbe string_ext.o
+ .debug_loc     0x000001fd       0x3d /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clzsi2.o)
+ .debug_loc     0x0000023a     0x11d1 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(adddf3.o)
+ .debug_loc     0x0000140b     0x129a /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(divdf3.o)
+ .debug_loc     0x000026a5      0x124 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(eqdf2.o)
+ .debug_loc     0x000027c9      0x22e /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(gedf2.o)
+ .debug_loc     0x000029f7      0x25a /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(ledf2.o)
+ .debug_loc     0x00002c51      0xa6b /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(muldf3.o)
+ .debug_loc     0x000036bc     0x11bb /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(subdf3.o)
+ .debug_loc     0x00004877       0xf2 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatsidf.o)
+ .debug_loc     0x00004969       0xc9 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatunsidf.o)
+ .debug_loc     0x00004a32      0x14c /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(extendsfdf2.o)
+ .debug_loc     0x00004b7e      0x2d5 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(truncdfsf2.o)
+
+.debug_macinfo
+ *(.debug_macinfo .zdebug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames .zdebug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames .zdebug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames .zdebug_typenames)
+
+.debug_varnames
+ *(.debug_varnames .zdebug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes .zdebug_pubtypes)
+
+.debug_ranges   0x00000000      0x8d8
+ *(.debug_ranges .zdebug_ranges)
+ .debug_ranges  0x00000000       0x28 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(_clzsi2.o)
+ .debug_ranges  0x00000028      0x1b8 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(adddf3.o)
+ .debug_ranges  0x000001e0      0x110 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(divdf3.o)
+ .debug_ranges  0x000002f0       0x48 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(eqdf2.o)
+ .debug_ranges  0x00000338       0xa0 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(gedf2.o)
+ .debug_ranges  0x000003d8       0xa8 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(ledf2.o)
+ .debug_ranges  0x00000480      0x1c8 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(muldf3.o)
+ .debug_ranges  0x00000648      0x1c8 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(subdf3.o)
+ .debug_ranges  0x00000810       0x30 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatsidf.o)
+ .debug_ranges  0x00000840       0x18 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(floatunsidf.o)
+ .debug_ranges  0x00000858       0x38 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(extendsfdf2.o)
+ .debug_ranges  0x00000890       0x48 /opt/uClinux-2014R1-RC2/bfin-linux-uclibc/bin/../lib/gcc/bfin-linux-uclibc/4.3.5/libgcc.a(truncdfsf2.o)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+.l2.text
+ *(.l2.text)
+
+.l2.data
+ *(.l2.data)
+
+.l1.data
+ *(.l1.data)
+
+.l1.data.A
+ *(.l1.data.A)
+
+.l1.data.B
+ *(.l1.data.B)
+
+.l1.text
+ *(.l1.text)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(lv-ccu elf32-bfinfdpic)
